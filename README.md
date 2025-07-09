@@ -56,8 +56,16 @@ The program starts with a **main menu** where users can choose their role:
 
 ---
 
-## Authors
+## GROUP MEMBERS
 
-- Group 4
+1	Selamawit Alamirew                       	RCD/1703/2017
+2	Hadiya Ibrahim                            RCD/0914/2017
+3	Abel G/Hiwot                              RCD/0887/2017
+4	Mikiyas Asfaw                             RCD/0924/2017
+5	Frehiwot Abere                            RCD/ 0910/2017
+6	Mekdelawit Samson                         RCD/0922/2017
+7	G/Egziabher Alebachew                     RCD/ 0911/2017
+8 Kirubel Seifu                             RCD/1811/2017
+
 
 
